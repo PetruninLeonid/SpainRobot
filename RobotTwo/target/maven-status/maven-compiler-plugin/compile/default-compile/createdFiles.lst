@@ -1,0 +1,11 @@
+run\Runner.class
+run\StaticDataProvider$RunTime.class
+run\StaticDataProvider.class
+run\StaticDataProvider$Timeouts.class
+run\CustomLogger.class
+run\Parsers.class
+run\CodigoChecker.class
+run\DateConverter.class
+run\Browser.class
+run\CountryChecker.class
+run\ExtentReportManager.class
